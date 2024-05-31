@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My GitHub!
 
-<!--
-**bitMyron/bitMyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a Ph.D. student at the University of Sydney focusing on artificial intelligence. I have professional experience as an AI engineer with leading tech companies, such as Xiaomi and Alibaba, where I specialized in areas including multimodal large language models (LLMs).
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **University:** University of Sydney
+- **Field of Study:** Ph.D. in Artificial Intelligence
+- **Industry Experience:** AI Engineering at Xiaomi and Alibaba
+- **Research Interests:** Multimodal LLMs, machine learning applications, and AI innovation.
+
+## Projects
+
+Here, you'll find a range of projects showcasing my work with AI, particularly in multimodal LLMs. These projects reflect my commitment to advancing the field of AI and my continuous learning journey.
+
+## Contact Me
+
+Feel free to reach out for collaborations or to discuss AI innovations. Let's connect and build the future of AI together!
+
+- **Email:** [bitmyron@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/yang-ma-b85b3b81/]
+
+Thank you for visiting my GitHub!
